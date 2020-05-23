@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: green;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+}
+
+div:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #CDCDCD;
+}
